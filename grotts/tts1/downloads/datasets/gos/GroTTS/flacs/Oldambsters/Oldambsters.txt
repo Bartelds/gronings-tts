@@ -1,0 +1,3 @@
+.flac files go here.
+
+e.g., Oldambsters-0001.flac
